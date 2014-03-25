@@ -1,0 +1,7 @@
+id date (mysql_iso) tag (номер тега) user (0.200) reader (1.2) type (0 - checkin, 1 - entrance)
+
+create table log ( id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, created TIMESTAMP, tag INT, user INT, reader INT, type INT);
+
+# test statements 
+INSERT INTO log (created,tag,user,reader,type) VALUES (now(),1234567,"30",1,0);
+INSERT INTO log (created,tag,user,reader,type) VALUES (now(),9234567,"25",1,0);

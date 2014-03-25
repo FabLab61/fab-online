@@ -1,0 +1,1145 @@
+[Sun Mar 23 21:48:56 2014] [info] Server listening (http://*:3000)
+[Sun Mar 23 21:49:09 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 21:49:09 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 21:49:09 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Mar 23 21:49:09 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Mar 23 21:49:09 2014] [debug] Rendering inline template.
+[Sun Mar 23 21:49:09 2014] [debug] 404 Not Found (0.022994s, 43.490/s).
+[Sun Mar 23 21:49:57 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 21:49:57 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 21:49:57 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 21:49:57 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 21:49:57 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 21:49:57 2014] [debug] 200 OK (0.006216s, 160.875/s).
+[Sun Mar 23 21:49:58 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 21:49:58 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 21:49:58 2014] [debug] 200 OK (0.003384s, 295.508/s).
+[Sun Mar 23 21:49:58 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 21:49:58 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 21:49:58 2014] [debug] 200 OK (0.002834s, 352.858/s).
+[Sun Mar 23 22:06:16 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:06:16 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:06:16 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:06:16 2014] [error] Global symbol "$last_tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 14.
+Global symbol "$last_tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 19.
+Compilation failed in require at (eval 245) line 1.
+
+[Sun Mar 23 22:06:16 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:06:16 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:06:16 2014] [debug] Rendering inline template.
+[Sun Mar 23 22:06:16 2014] [debug] 500 Internal Server Error (0.022290s, 44.863/s).
+[Sun Mar 23 22:07:39 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:07:39 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:07:39 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:07:39 2014] [error] Global symbol "$last_tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 15.
+Global symbol "$last_tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 20.
+Compilation failed in require at (eval 245) line 1.
+
+[Sun Mar 23 22:07:39 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:07:39 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:07:39 2014] [debug] Rendering inline template.
+[Sun Mar 23 22:07:39 2014] [debug] 500 Internal Server Error (0.029016s, 34.464/s).
+[Sun Mar 23 22:09:18 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:09:18 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:09:18 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:09:18 2014] [error] Global symbol "@a" requires explicit package name at script/../lib/OpenAccess/Example.pm line 15.
+Compilation failed in require at (eval 245) line 1.
+
+[Sun Mar 23 22:09:18 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:09:18 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:09:18 2014] [debug] Rendering inline template.
+[Sun Mar 23 22:09:18 2014] [debug] 500 Internal Server Error (0.028535s, 35.045/s).
+[Sun Mar 23 22:09:18 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:09:18 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:09:18 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 22:09:18 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:09:18 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:09:18 2014] [debug] Rendering inline template.
+[Sun Mar 23 22:09:18 2014] [debug] 500 Internal Server Error (0.037454s, 26.699/s).
+[Sun Mar 23 22:09:18 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 22:09:21 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:09:21 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:09:21 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 22:09:21 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:09:21 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:09:21 2014] [debug] 500 Internal Server Error (0.022360s, 44.723/s).
+[Sun Mar 23 22:09:21 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 22:09:35 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:09:35 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:09:35 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:09:35 2014] [error] Can't locate object method "connect" via package "DBI" at script/../lib/OpenAccess/Example.pm line 8.
+
+[Sun Mar 23 22:09:35 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:09:35 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:09:35 2014] [debug] Rendering inline template.
+[Sun Mar 23 22:09:35 2014] [debug] 500 Internal Server Error (0.037444s, 26.707/s).
+[Sun Mar 23 22:09:35 2014] [error] Can't locate object method "connect" via package "DBI" at script/../lib/OpenAccess/Example.pm line 8.
+
+[Sun Mar 23 22:09:36 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:09:36 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:09:36 2014] [error] Can't locate object method "connect" via package "DBI" at script/../lib/OpenAccess/Example.pm line 8.
+
+[Sun Mar 23 22:09:36 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:09:36 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:09:36 2014] [debug] 500 Internal Server Error (0.014013s, 71.362/s).
+[Sun Mar 23 22:09:36 2014] [error] Can't locate object method "connect" via package "DBI" at script/../lib/OpenAccess/Example.pm line 8.
+
+[Sun Mar 23 22:09:48 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:09:48 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:09:48 2014] [error] Can't locate object method "connect" via package "DBI" at script/../lib/OpenAccess/Example.pm line 8.
+
+[Sun Mar 23 22:09:48 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:09:48 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:09:48 2014] [debug] 500 Internal Server Error (0.017085s, 58.531/s).
+[Sun Mar 23 22:09:48 2014] [error] Can't locate object method "connect" via package "DBI" at script/../lib/OpenAccess/Example.pm line 8.
+
+[Sun Mar 23 22:10:02 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:10:02 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:10:02 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:10:02 2014] [error] Can't use string ("created") as an ARRAY ref while "strict refs" in use at /usr/lib/perl5/DBI.pm line 2015.
+
+[Sun Mar 23 22:10:02 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:10:02 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:10:02 2014] [debug] Rendering inline template.
+[Sun Mar 23 22:10:02 2014] [debug] 500 Internal Server Error (0.060054s, 16.652/s).
+[Sun Mar 23 22:10:02 2014] [error] Can't use string ("created") as an ARRAY ref while "strict refs" in use at /usr/lib/perl5/DBI.pm line 2015.
+
+[Sun Mar 23 22:10:04 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:10:04 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:10:04 2014] [error] Can't use string ("created") as an ARRAY ref while "strict refs" in use at /usr/lib/perl5/DBI.pm line 2015.
+
+[Sun Mar 23 22:10:04 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:10:04 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:10:04 2014] [debug] 500 Internal Server Error (0.031946s, 31.303/s).
+[Sun Mar 23 22:10:04 2014] [error] Can't use string ("created") as an ARRAY ref while "strict refs" in use at /usr/lib/perl5/DBI.pm line 2015.
+
+[Sun Mar 23 22:10:23 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:10:23 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:10:23 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:10:23 2014] [error] Can't use string ("created") as an ARRAY ref while "strict refs" in use at /usr/lib/perl5/DBI.pm line 2015.
+
+[Sun Mar 23 22:10:23 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:10:23 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:10:23 2014] [debug] Rendering inline template.
+[Sun Mar 23 22:10:23 2014] [debug] 500 Internal Server Error (0.060231s, 16.603/s).
+[Sun Mar 23 22:10:23 2014] [error] Can't use string ("created") as an ARRAY ref while "strict refs" in use at /usr/lib/perl5/DBI.pm line 2015.
+
+[Sun Mar 23 22:10:24 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:10:24 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:10:24 2014] [error] Can't use string ("created") as an ARRAY ref while "strict refs" in use at /usr/lib/perl5/DBI.pm line 2015.
+
+[Sun Mar 23 22:10:24 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:10:24 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:10:24 2014] [debug] 500 Internal Server Error (0.028843s, 34.670/s).
+[Sun Mar 23 22:10:24 2014] [error] Can't use string ("created") as an ARRAY ref while "strict refs" in use at /usr/lib/perl5/DBI.pm line 2015.
+
+[Sun Mar 23 22:10:25 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:10:25 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:10:25 2014] [error] Can't use string ("created") as an ARRAY ref while "strict refs" in use at /usr/lib/perl5/DBI.pm line 2015.
+
+[Sun Mar 23 22:10:25 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:10:25 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:10:25 2014] [debug] 500 Internal Server Error (0.028516s, 35.068/s).
+[Sun Mar 23 22:10:25 2014] [error] Can't use string ("created") as an ARRAY ref while "strict refs" in use at /usr/lib/perl5/DBI.pm line 2015.
+
+[Sun Mar 23 22:10:52 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:10:52 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:10:52 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:10:52 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:10:52 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:10:52 2014] [debug] 200 OK (0.039858s, 25.089/s).
+[Sun Mar 23 22:10:53 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:10:53 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:10:53 2014] [debug] 200 OK (0.009722s, 102.859/s).
+[Sun Mar 23 22:11:34 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:11:42 2014] [debug] GET /welcome (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:11:42 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Mar 23 22:11:42 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Mar 23 22:11:42 2014] [debug] Rendering inline template.
+[Sun Mar 23 22:11:42 2014] [debug] 404 Not Found (0.016573s, 60.339/s).
+[Sun Mar 23 22:11:50 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:11:50 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:11:50 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:11:50 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:11:50 2014] [debug] 200 OK (0.048382s, 20.669/s).
+[Sun Mar 23 22:13:00 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:13:00 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:13:00 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:13:00 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:13:00 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:13:00 2014] [debug] 200 OK (0.041777s, 23.937/s).
+[Sun Mar 23 22:13:01 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:13:01 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:13:01 2014] [debug] 200 OK (0.009359s, 106.849/s).
+[Sun Mar 23 22:13:01 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:13:01 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:13:02 2014] [debug] 200 OK (0.009120s, 109.649/s).
+[Sun Mar 23 22:13:02 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:13:02 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:13:02 2014] [debug] 200 OK (0.008385s, 119.261/s).
+[Sun Mar 23 22:14:19 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:14:19 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:14:19 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:14:19 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:14:19 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:14:19 2014] [debug] 200 OK (0.039846s, 25.097/s).
+[Sun Mar 23 22:15:40 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:15:40 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:15:40 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:15:40 2014] [error] syntax error at script/../lib/OpenAccess/Example.pm line 19, near "))"
+Compilation failed in require at (eval 245) line 1.
+
+[Sun Mar 23 22:15:40 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:15:40 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:15:40 2014] [debug] Rendering inline template.
+[Sun Mar 23 22:15:40 2014] [debug] 500 Internal Server Error (0.038976s, 25.657/s).
+[Sun Mar 23 22:15:52 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:15:52 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:15:52 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:15:52 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:15:52 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:15:52 2014] [debug] 200 OK (0.033810s, 29.577/s).
+[Sun Mar 23 22:16:23 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:16:23 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:16:23 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:16:23 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:16:23 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:16:23 2014] [debug] 200 OK (0.035297s, 28.331/s).
+[Sun Mar 23 22:16:34 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:16:34 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:16:34 2014] [debug] 200 OK (0.008823s, 113.340/s).
+[Sun Mar 23 22:17:15 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:17:15 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:17:15 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:17:15 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:17:15 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:17:15 2014] [debug] 200 OK (0.043405s, 23.039/s).
+[Sun Mar 23 22:18:23 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:18:23 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:18:23 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:18:23 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:18:23 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:18:23 2014] [debug] 200 OK (0.043761s, 22.851/s).
+[Sun Mar 23 22:19:03 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:19:03 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:19:03 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:19:03 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:19:03 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:19:03 2014] [debug] 200 OK (0.036931s, 27.078/s).
+[Sun Mar 23 22:20:18 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:20:18 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:20:18 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:20:18 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:20:18 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:20:18 2014] [debug] 200 OK (0.038592s, 25.912/s).
+[Sun Mar 23 22:20:45 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:20:45 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:20:45 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:20:45 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:20:45 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:20:45 2014] [debug] 200 OK (0.042777s, 23.377/s).
+[Sun Mar 23 22:21:16 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:21:16 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:21:16 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:21:16 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:21:16 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:21:16 2014] [debug] 200 OK (0.051633s, 19.367/s).
+[Sun Mar 23 22:22:30 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:22:30 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:22:30 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:22:30 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:22:30 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:22:30 2014] [debug] 200 OK (0.038191s, 26.184/s).
+[Sun Mar 23 22:22:30 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:22:30 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:22:30 2014] [debug] 200 OK (0.007767s, 128.750/s).
+[Sun Mar 23 22:22:31 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:22:31 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:22:31 2014] [debug] 200 OK (0.009833s, 101.698/s).
+[Sun Mar 23 22:23:21 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:23:21 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:23:21 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:23:21 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:23:21 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:23:21 2014] [debug] 200 OK (0.049520s, 20.194/s).
+[Sun Mar 23 22:23:55 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:23:55 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:23:55 2014] [debug] 200 OK (0.009072s, 110.229/s).
+[Sun Mar 23 22:23:55 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:23:55 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:23:55 2014] [debug] 200 OK (0.010378s, 96.358/s).
+[Sun Mar 23 22:28:52 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:28:52 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:28:52 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:28:52 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:28:52 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:28:52 2014] [debug] 200 OK (0.041039s, 24.367/s).
+[Sun Mar 23 22:28:53 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:28:53 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:28:53 2014] [debug] 200 OK (0.009450s, 105.820/s).
+[Sun Mar 23 22:28:53 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:28:53 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:28:53 2014] [debug] 200 OK (0.009164s, 109.123/s).
+[Sun Mar 23 22:30:02 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:30:02 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:30:02 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:30:02 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:30:02 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:30:02 2014] [debug] 200 OK (0.031702s, 31.544/s).
+[Sun Mar 23 22:30:11 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:30:11 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:30:11 2014] [debug] 200 OK (0.005142s, 194.477/s).
+[Sun Mar 23 22:30:11 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:30:11 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:30:11 2014] [debug] 200 OK (0.004393s, 227.635/s).
+[Sun Mar 23 22:30:12 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:30:12 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:30:12 2014] [debug] 200 OK (0.002860s, 349.650/s).
+[Sun Mar 23 22:30:12 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:30:12 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:30:12 2014] [debug] 200 OK (0.004091s, 244.439/s).
+[Sun Mar 23 22:31:20 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:31:20 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:31:20 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:31:20 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:31:20 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:31:20 2014] [debug] 200 OK (0.034906s, 28.648/s).
+[Sun Mar 23 22:34:10 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:34:10 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:34:10 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:34:10 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:34:10 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:34:10 2014] [debug] 200 OK (0.033986s, 29.424/s).
+[Sun Mar 23 22:35:10 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:35:10 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:35:10 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:35:10 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:35:10 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:35:10 2014] [debug] 200 OK (0.042119s, 23.742/s).
+[Sun Mar 23 22:35:46 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:35:46 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:35:46 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:35:46 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:35:46 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:35:46 2014] [debug] 200 OK (0.058375s, 17.131/s).
+[Sun Mar 23 22:36:19 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:36:19 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:36:19 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:36:19 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 22:36:19 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 22:36:19 2014] [debug] 200 OK (0.043803s, 22.829/s).
+[Sun Mar 23 22:59:41 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 22:59:41 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:59:41 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:59:41 2014] [error] Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 20.
+Compilation failed in require at (eval 245) line 1.
+
+[Sun Mar 23 22:59:41 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:59:41 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:59:41 2014] [debug] Rendering inline template.
+[Sun Mar 23 22:59:41 2014] [debug] 500 Internal Server Error (0.043280s, 23.105/s).
+[Sun Mar 23 22:59:42 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:59:42 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:59:42 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 22:59:42 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:59:42 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:59:42 2014] [debug] Rendering inline template.
+[Sun Mar 23 22:59:42 2014] [debug] 500 Internal Server Error (0.037563s, 26.622/s).
+[Sun Mar 23 22:59:42 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 22:59:42 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 22:59:42 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 22:59:42 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 22:59:42 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 22:59:42 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 22:59:42 2014] [debug] 500 Internal Server Error (0.020010s, 49.975/s).
+[Sun Mar 23 22:59:42 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:03:11 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:03:11 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:03:11 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:03:11 2014] [error] Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 20.
+Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 23.
+Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 26.
+Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 30.
+Compilation failed in require at (eval 245) line 1.
+
+[Sun Mar 23 23:03:11 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:03:11 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:03:11 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:03:11 2014] [debug] 500 Internal Server Error (0.035712s, 28.002/s).
+[Sun Mar 23 23:03:13 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:03:13 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:03:13 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:03:13 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:03:13 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:03:13 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:03:13 2014] [debug] 500 Internal Server Error (0.025941s, 38.549/s).
+[Sun Mar 23 23:03:13 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:03:15 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:03:15 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:03:15 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:03:15 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:03:15 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:03:15 2014] [debug] 500 Internal Server Error (0.023496s, 42.560/s).
+[Sun Mar 23 23:03:15 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:08:14 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:08:14 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:08:14 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:08:14 2014] [error] Global symbol "$last_r_for_tag" requires explicit package name at script/../lib/OpenAccess/Example.pm line 20.
+Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 23.
+Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 26.
+Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 30.
+Compilation failed in require at (eval 245) line 1.
+
+[Sun Mar 23 23:08:14 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:08:14 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:08:14 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:08:14 2014] [debug] 500 Internal Server Error (0.044626s, 22.408/s).
+[Sun Mar 23 23:08:26 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:08:26 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:08:26 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:08:26 2014] [error] Global symbol "$last_r_for_tag" requires explicit package name at script/../lib/OpenAccess/Example.pm line 20.
+Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 30.
+Compilation failed in require at (eval 245) line 1.
+
+[Sun Mar 23 23:08:26 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:08:26 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:08:26 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:08:26 2014] [debug] 500 Internal Server Error (0.042474s, 23.544/s).
+[Sun Mar 23 23:08:27 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:08:27 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:08:27 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:08:27 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:08:27 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:08:27 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:08:27 2014] [debug] 500 Internal Server Error (0.028802s, 34.720/s).
+[Sun Mar 23 23:08:27 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:11:43 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:11:43 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:11:43 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:11:43 2014] [error] Global symbol "$last_r_for_tag" requires explicit package name at script/../lib/OpenAccess/Example.pm line 20.
+Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 22.
+Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 25.
+Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 33.
+Compilation failed in require at (eval 245) line 1.
+
+[Sun Mar 23 23:11:43 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:11:43 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:11:43 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:11:43 2014] [debug] 500 Internal Server Error (0.037673s, 26.544/s).
+[Sun Mar 23 23:12:01 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:12:01 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:12:01 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:12:01 2014] [error] Global symbol "$last_r_for_tag" requires explicit package name at script/../lib/OpenAccess/Example.pm line 20.
+Global symbol "$last_r_for_tag" requires explicit package name at script/../lib/OpenAccess/Example.pm line 22.
+Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 25.
+Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 33.
+Compilation failed in require at (eval 245) line 1.
+
+[Sun Mar 23 23:12:01 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:12:01 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:12:01 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:12:01 2014] [debug] 500 Internal Server Error (0.034073s, 29.349/s).
+[Sun Mar 23 23:12:02 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:12:02 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:12:02 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:12:02 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:12:02 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:12:02 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:12:02 2014] [debug] 500 Internal Server Error (0.028519s, 35.064/s).
+[Sun Mar 23 23:12:02 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:12:02 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:12:02 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:12:02 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:12:02 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:12:02 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:12:02 2014] [debug] 500 Internal Server Error (0.019693s, 50.779/s).
+[Sun Mar 23 23:12:02 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:12:09 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:12:09 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:12:09 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:12:09 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:12:09 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:12:09 2014] [debug] 500 Internal Server Error (0.018823s, 53.126/s).
+[Sun Mar 23 23:12:09 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:12:10 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:12:10 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:12:10 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:12:10 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:12:10 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:12:10 2014] [debug] 500 Internal Server Error (0.020243s, 49.400/s).
+[Sun Mar 23 23:12:10 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:13:53 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:13:53 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:13:53 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:13:53 2014] [error] Global symbol "$last_r_for_tag" requires explicit package name at script/../lib/OpenAccess/Example.pm line 20.
+Global symbol "$last_r_for_tag" requires explicit package name at script/../lib/OpenAccess/Example.pm line 22.
+Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 35.
+Compilation failed in require at (eval 245) line 1.
+
+[Sun Mar 23 23:13:53 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:13:53 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:13:53 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:13:53 2014] [debug] 500 Internal Server Error (0.034233s, 29.212/s).
+[Sun Mar 23 23:14:06 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:14:06 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:14:06 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:14:06 2014] [error] Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 35.
+Compilation failed in require at (eval 245) line 1.
+
+[Sun Mar 23 23:14:06 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:14:06 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:14:06 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:14:06 2014] [debug] 500 Internal Server Error (0.043496s, 22.991/s).
+[Sun Mar 23 23:14:20 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:14:20 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:14:20 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:14:20 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:14:20 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:14:20 2014] [debug] 200 OK (0.046731s, 21.399/s).
+[Sun Mar 23 23:14:57 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:14:57 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:14:57 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:14:57 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:14:57 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:14:57 2014] [debug] 200 OK (0.048705s, 20.532/s).
+[Sun Mar 23 23:15:31 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:15:31 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:15:31 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:15:31 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:15:31 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:15:31 2014] [debug] 200 OK (0.038654s, 25.871/s).
+[Sun Mar 23 23:16:23 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:16:23 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:16:23 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:16:23 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:16:23 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:16:23 2014] [debug] 200 OK (0.039267s, 25.467/s).
+[Sun Mar 23 23:17:01 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:17:01 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:17:01 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:17:01 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:17:01 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:17:01 2014] [debug] 200 OK (0.046561s, 21.477/s).
+[Sun Mar 23 23:17:08 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:17:08 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:17:09 2014] [debug] 200 OK (0.011565s, 86.468/s).
+[Sun Mar 23 23:18:11 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:18:11 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:18:11 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:18:11 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:18:11 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:18:11 2014] [debug] 200 OK (0.045885s, 21.794/s).
+[Sun Mar 23 23:18:26 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:18:26 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:18:26 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:18:26 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:18:26 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:18:26 2014] [debug] 200 OK (0.045709s, 21.878/s).
+[Sun Mar 23 23:18:27 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:18:27 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:18:27 2014] [debug] 200 OK (0.011234s, 89.015/s).
+[Sun Mar 23 23:18:27 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:18:27 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:18:27 2014] [debug] 200 OK (0.008968s, 111.508/s).
+[Sun Mar 23 23:18:27 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:18:27 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:18:27 2014] [debug] 200 OK (0.009841s, 101.616/s).
+[Sun Mar 23 23:18:27 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:18:27 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:18:27 2014] [debug] 200 OK (0.014590s, 68.540/s).
+[Sun Mar 23 23:18:27 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:18:27 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:18:27 2014] [debug] 200 OK (0.008894s, 112.435/s).
+[Sun Mar 23 23:18:33 2014] [info] Server listening (http://*:3000)
+[Sun Mar 23 23:18:35 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:18:35 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:18:35 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:18:35 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:18:35 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:18:35 2014] [debug] 200 OK (0.038492s, 25.979/s).
+[Sun Mar 23 23:19:18 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:19:18 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:19:18 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:19:18 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:19:18 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:19:18 2014] [debug] 200 OK (0.034693s, 28.824/s).
+[Sun Mar 23 23:19:59 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:19:59 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:19:59 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:19:59 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:19:59 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:19:59 2014] [debug] 200 OK (0.039680s, 25.202/s).
+[Sun Mar 23 23:20:11 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:20:11 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:20:11 2014] [debug] 200 OK (0.014977s, 66.769/s).
+[Sun Mar 23 23:20:12 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:20:12 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:20:12 2014] [debug] 200 OK (0.015583s, 64.172/s).
+[Sun Mar 23 23:20:12 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:20:12 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:20:12 2014] [debug] 200 OK (0.010488s, 95.347/s).
+[Sun Mar 23 23:20:12 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:20:12 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:20:12 2014] [debug] 200 OK (0.009993s, 100.070/s).
+[Sun Mar 23 23:20:38 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:20:38 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:20:38 2014] [debug] 200 OK (0.012611s, 79.296/s).
+[Sun Mar 23 23:21:23 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:21:23 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:21:23 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:21:23 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:21:23 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:21:23 2014] [debug] 200 OK (0.053271s, 18.772/s).
+[Sun Mar 23 23:23:06 2014] [info] Server listening (http://*:3000)
+[Sun Mar 23 23:23:09 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:23:09 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:23:09 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:23:09 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:23:09 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:23:09 2014] [debug] 200 OK (0.051250s, 19.512/s).
+[Sun Mar 23 23:25:58 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:25:58 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:25:58 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:25:58 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:25:58 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:25:58 2014] [debug] 200 OK (0.051440s, 19.440/s).
+[Sun Mar 23 23:26:38 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:26:38 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:26:38 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:26:38 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:26:38 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:26:38 2014] [debug] 200 OK (0.031974s, 31.275/s).
+[Sun Mar 23 23:27:01 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:27:01 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:27:01 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:27:01 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:27:01 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:27:01 2014] [debug] 200 OK (0.045191s, 22.128/s).
+[Sun Mar 23 23:27:57 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:27:57 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:27:57 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:27:57 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:27:57 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:27:57 2014] [debug] 200 OK (0.033652s, 29.716/s).
+[Sun Mar 23 23:28:18 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:28:18 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:28:18 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:28:18 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:28:18 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:28:18 2014] [debug] 200 OK (0.038627s, 25.889/s).
+[Sun Mar 23 23:29:33 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:29:33 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:29:33 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:29:33 2014] [error] Not an ARRAY reference at script/../lib/OpenAccess/Example.pm line 17.
+
+[Sun Mar 23 23:29:33 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:29:33 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:29:33 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:29:33 2014] [debug] 500 Internal Server Error (0.058659s, 17.048/s).
+[Sun Mar 23 23:29:33 2014] [error] Not an ARRAY reference at script/../lib/OpenAccess/Example.pm line 17.
+
+[Sun Mar 23 23:29:54 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:29:54 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:29:54 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:29:54 2014] [error] Can't use string ("7357456") as an ARRAY ref while "strict refs" in use at script/../lib/OpenAccess/Example.pm line 18.
+
+[Sun Mar 23 23:29:54 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:29:54 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:29:54 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:29:54 2014] [debug] 500 Internal Server Error (0.054447s, 18.366/s).
+[Sun Mar 23 23:29:54 2014] [error] Can't use string ("7357456") as an ARRAY ref while "strict refs" in use at script/../lib/OpenAccess/Example.pm line 18.
+
+[Sun Mar 23 23:32:04 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:32:04 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:32:04 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:32:04 2014] [error] Not an ARRAY reference at script/../lib/OpenAccess/Example.pm line 24.
+
+[Sun Mar 23 23:32:04 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:32:04 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:32:04 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:32:04 2014] [debug] 500 Internal Server Error (0.054947s, 18.199/s).
+[Sun Mar 23 23:32:04 2014] [error] Not an ARRAY reference at script/../lib/OpenAccess/Example.pm line 24.
+
+[Sun Mar 23 23:32:05 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:32:05 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:32:05 2014] [error] Not an ARRAY reference at script/../lib/OpenAccess/Example.pm line 24.
+
+[Sun Mar 23 23:32:05 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:32:05 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:32:05 2014] [debug] 500 Internal Server Error (0.023075s, 43.337/s).
+[Sun Mar 23 23:32:05 2014] [error] Not an ARRAY reference at script/../lib/OpenAccess/Example.pm line 24.
+
+[Sun Mar 23 23:33:00 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:33:00 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:33:00 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:33:00 2014] [error] Can't use string ("7") as an ARRAY ref while "strict refs" in use at script/../lib/OpenAccess/Example.pm line 24.
+
+[Sun Mar 23 23:33:00 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:33:00 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:33:00 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:33:00 2014] [debug] 500 Internal Server Error (0.048870s, 20.462/s).
+[Sun Mar 23 23:33:00 2014] [error] Can't use string ("7") as an ARRAY ref while "strict refs" in use at script/../lib/OpenAccess/Example.pm line 24.
+
+[Sun Mar 23 23:33:17 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:33:17 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:33:17 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:33:17 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:33:17 2014] [error] Not an ARRAY reference at template "example/welcome.html.ep" line 6, near "<%= $_->[0] %>".
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: 
+5: 
+6: <% for (@$all_tags) {%>
+7: <%= $_->[0] %>
+8: <% }%>
+
+[Sun Mar 23 23:33:17 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:33:17 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:33:17 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:33:17 2014] [debug] 500 Internal Server Error (0.062617s, 15.970/s).
+[Sun Mar 23 23:33:19 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:33:19 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:33:19 2014] [error] Not an ARRAY reference at template "example/welcome.html.ep" line 6, near "<%= $_->[0] %>".
+1: % layout 'default';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: 
+5: 
+6: <% for (@$all_tags) {%>
+7: <%= $_->[0] %>
+8: <% }%>
+
+[Sun Mar 23 23:33:19 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:33:19 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:33:19 2014] [debug] 500 Internal Server Error (0.027282s, 36.654/s).
+[Sun Mar 23 23:33:29 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:33:29 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:33:29 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:33:29 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:33:29 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:33:29 2014] [debug] 200 OK (0.038837s, 25.749/s).
+[Sun Mar 23 23:35:30 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:35:30 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:35:30 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:35:30 2014] [error] DBI selectcol_arrayref: invalid number of arguments: got handle + 0, expected handle + between 1 and -1
+Usage: $h->selectcol_arrayref($statement [, \%attr [, @bind_params ] ]) at script/../lib/OpenAccess/Example.pm line 14.
+
+[Sun Mar 23 23:35:30 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:35:30 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:35:30 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:35:30 2014] [debug] 500 Internal Server Error (0.049359s, 20.260/s).
+[Sun Mar 23 23:35:30 2014] [error] DBI selectcol_arrayref: invalid number of arguments: got handle + 0, expected handle + between 1 and -1
+Usage: $h->selectcol_arrayref($statement [, \%attr [, @bind_params ] ]) at script/../lib/OpenAccess/Example.pm line 14.
+
+[Sun Mar 23 23:36:19 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:36:19 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:36:19 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:36:19 2014] [error] Global symbol "$sth" requires explicit package name at script/../lib/OpenAccess/Example.pm line 29.
+Global symbol "$sth" requires explicit package name at script/../lib/OpenAccess/Example.pm line 30.
+Global symbol "$sth" requires explicit package name at script/../lib/OpenAccess/Example.pm line 31.
+Compilation failed in require at (eval 245) line 1.
+
+[Sun Mar 23 23:36:19 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:36:19 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:36:19 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:36:19 2014] [debug] 500 Internal Server Error (0.037820s, 26.441/s).
+[Sun Mar 23 23:36:20 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:36:20 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:36:20 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:36:20 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:36:20 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:36:20 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:36:20 2014] [debug] 500 Internal Server Error (0.026448s, 37.810/s).
+[Sun Mar 23 23:36:20 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:36:50 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:36:50 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:36:50 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:36:51 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:36:51 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:36:51 2014] [debug] 200 OK (0.042294s, 23.644/s).
+[Sun Mar 23 23:36:59 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:36:59 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:36:59 2014] [debug] 200 OK (0.003189s, 313.578/s).
+[Sun Mar 23 23:38:03 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:38:03 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:38:03 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:38:03 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:38:03 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:38:03 2014] [debug] 200 OK (0.038341s, 26.082/s).
+[Sun Mar 23 23:39:43 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:39:43 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:39:43 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:39:43 2014] [error] Global symbol "$sth" requires explicit package name at script/../lib/OpenAccess/Example.pm line 16.
+Global symbol "$sth" requires explicit package name at script/../lib/OpenAccess/Example.pm line 17.
+Global symbol "$sth" requires explicit package name at script/../lib/OpenAccess/Example.pm line 18.
+syntax error at script/../lib/OpenAccess/Example.pm line 19, near ")
+  warn"
+Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 19.
+Compilation failed in require at (eval 245) line 1.
+
+[Sun Mar 23 23:39:43 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:39:43 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:39:43 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:39:43 2014] [debug] 500 Internal Server Error (0.038022s, 26.301/s).
+[Sun Mar 23 23:39:55 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:39:55 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:39:55 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:39:55 2014] [error] syntax error at script/../lib/OpenAccess/Example.pm line 19, near ")
+  warn"
+Global symbol "$tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 19.
+Compilation failed in require at (eval 245) line 1.
+
+[Sun Mar 23 23:39:55 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:39:55 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:39:55 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:39:55 2014] [debug] 500 Internal Server Error (0.046488s, 21.511/s).
+[Sun Mar 23 23:40:10 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:40:10 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:40:10 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:40:10 2014] [error] syntax error at script/../lib/OpenAccess/Example.pm line 19, near ")
+  warn"
+Global symbol "$last_r_for_tag" requires explicit package name at script/../lib/OpenAccess/Example.pm line 19.
+Compilation failed in require at (eval 245) line 1.
+
+[Sun Mar 23 23:40:10 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:40:10 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:40:10 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:40:10 2014] [debug] 500 Internal Server Error (0.045634s, 21.913/s).
+[Sun Mar 23 23:40:12 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:40:12 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:40:12 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:40:12 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:40:12 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:40:12 2014] [debug] Rendering inline template.
+[Sun Mar 23 23:40:12 2014] [debug] 500 Internal Server Error (0.038232s, 26.156/s).
+[Sun Mar 23 23:40:12 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:40:12 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:40:12 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:40:12 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:40:12 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Mar 23 23:40:12 2014] [debug] Template "exception.html.ep" not found.
+[Sun Mar 23 23:40:12 2014] [debug] 500 Internal Server Error (0.025656s, 38.977/s).
+[Sun Mar 23 23:40:12 2014] [error] Can't locate object method "welcome" via package "OpenAccess::Example" at /usr/share/perl5/Mojolicious/Routes.pm line 409
+
+[Sun Mar 23 23:40:31 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:40:31 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:40:31 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:40:31 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:40:31 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:40:31 2014] [debug] 200 OK (0.029977s, 33.359/s).
+[Sun Mar 23 23:41:05 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:41:05 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:41:05 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:41:06 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:41:06 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:41:06 2014] [debug] 200 OK (0.029624s, 33.756/s).
+[Sun Mar 23 23:42:40 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:42:40 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:42:40 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:42:40 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:42:40 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:42:40 2014] [debug] 200 OK (0.038717s, 25.828/s).
+[Sun Mar 23 23:42:56 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:42:56 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:42:56 2014] [debug] 200 OK (0.003759s, 266.028/s).
+[Sun Mar 23 23:43:29 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:43:29 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:43:29 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:43:29 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:43:29 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:43:29 2014] [debug] 200 OK (0.047060s, 21.249/s).
+[Sun Mar 23 23:47:11 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sun Mar 23 23:47:11 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:47:11 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:47:11 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sun Mar 23 23:47:11 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sun Mar 23 23:47:11 2014] [debug] 200 OK (0.041705s, 23.978/s).
+[Sun Mar 23 23:47:22 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Sun Mar 23 23:47:22 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Sun Mar 23 23:47:22 2014] [debug] 200 OK (0.003194s, 313.087/s).
+[Mon Mar 24 01:03:28 2014] [info] Server listening (http://*:3000)
+[Mon Mar 24 01:03:37 2014] [debug] Your secret passphrase needs to be changed!!!
+[Mon Mar 24 01:03:37 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Mon Mar 24 01:03:37 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Mon Mar 24 01:03:37 2014] [error] Global symbol "$all_tags" requires explicit package name at script/../lib/OpenAccess/Example.pm line 60.
+Compilation failed in require at (eval 245) line 1.
+
+[Mon Mar 24 01:03:37 2014] [debug] Template "exception.development.html.ep" not found.
+[Mon Mar 24 01:03:37 2014] [debug] Template "exception.html.ep" not found.
+[Mon Mar 24 01:03:37 2014] [debug] Rendering inline template.
+[Mon Mar 24 01:03:37 2014] [debug] 500 Internal Server Error (0.044600s, 22.422/s).
+[Mon Mar 24 01:03:49 2014] [debug] Your secret passphrase needs to be changed!!!
+[Mon Mar 24 01:03:49 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Mon Mar 24 01:03:49 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Mon Mar 24 01:03:49 2014] [debug] Rendering template "example/welcome.html.ep".
+[Mon Mar 24 01:03:49 2014] [debug] Rendering template "layouts/default.html.ep".
+[Mon Mar 24 01:03:49 2014] [debug] 200 OK (0.033698s, 29.675/s).
+[Mon Mar 24 01:28:34 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Mon Mar 24 01:28:34 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Mon Mar 24 01:28:34 2014] [debug] 200 OK (0.003866s, 258.665/s).
+[Mon Mar 24 01:31:10 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Mon Mar 24 01:31:10 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Mon Mar 24 01:31:10 2014] [debug] 200 OK (0.006602s, 151.469/s).
+[Tue Mar 25 09:57:39 2014] [info] Server listening (http://*:3000)
+[Tue Mar 25 09:57:48 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Mar 25 09:57:48 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 09:57:48 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 09:57:48 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Mar 25 09:57:48 2014] [debug] Rendering template "layouts/default.html.ep".
+[Tue Mar 25 09:57:48 2014] [debug] 200 OK (0.053045s, 18.852/s).
+[Tue Mar 25 10:19:54 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Mar 25 10:19:54 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:19:54 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:19:54 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Mar 25 10:19:54 2014] [debug] Rendering template "layouts/default.html.ep".
+[Tue Mar 25 10:19:54 2014] [debug] 200 OK (0.047305s, 21.139/s).
+[Tue Mar 25 10:21:16 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:21:16 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:21:16 2014] [debug] 200 OK (0.005869s, 170.387/s).
+[Tue Mar 25 10:21:22 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:21:22 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:21:22 2014] [debug] 200 OK (0.003473s, 287.936/s).
+[Tue Mar 25 10:21:22 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:21:22 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:21:22 2014] [debug] 200 OK (0.005766s, 173.430/s).
+[Tue Mar 25 10:21:23 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:21:23 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:21:23 2014] [debug] 200 OK (0.005734s, 174.398/s).
+[Tue Mar 25 10:24:54 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Mar 25 10:24:54 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:24:54 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:24:54 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Mar 25 10:24:54 2014] [debug] Rendering template "layouts/default.html.ep".
+[Tue Mar 25 10:24:54 2014] [debug] 200 OK (0.051810s, 19.301/s).
+[Tue Mar 25 10:25:09 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:25:09 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:25:09 2014] [debug] 200 OK (0.005248s, 190.549/s).
+[Tue Mar 25 10:27:39 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Mar 25 10:27:39 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:27:39 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:27:39 2014] [error] syntax error at script/../lib/OpenAccess/Example.pm line 17, near "$a;"
+syntax error at script/../lib/OpenAccess/Example.pm line 18, near "'Welcome to the Mojolicious real-time web framework!')"
+Compilation failed in require at (eval 245) line 1.
+
+[Tue Mar 25 10:27:39 2014] [debug] Template "exception.development.html.ep" not found.
+[Tue Mar 25 10:27:39 2014] [debug] Template "exception.html.ep" not found.
+[Tue Mar 25 10:27:39 2014] [debug] Rendering inline template.
+[Tue Mar 25 10:27:39 2014] [debug] 500 Internal Server Error (0.049225s, 20.315/s).
+[Tue Mar 25 10:27:53 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Mar 25 10:27:53 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:27:53 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:27:53 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Mar 25 10:27:53 2014] [error] syntax error at template "example/welcome.html.ep" line 7, near "	<=% $_->{'created'} %>".
+syntax error at template "example/welcome.html.ep" line 9.
+Missing right curly or square bracket at template "example/welcome.html.ep" line 9.
+2: % title 'Welcome';
+3: 
+4: <h2><%= $message %></h2>
+5: 
+6: 
+7: <%= for (values %$a) {
+8: 	<=% $_->{'created'} %>
+9: } %>
+
+[Tue Mar 25 10:27:53 2014] [debug] Template "exception.development.html.ep" not found.
+[Tue Mar 25 10:27:53 2014] [debug] Template "exception.html.ep" not found.
+[Tue Mar 25 10:27:53 2014] [debug] Rendering inline template.
+[Tue Mar 25 10:27:53 2014] [debug] 500 Internal Server Error (0.054932s, 18.204/s).
+[Tue Mar 25 10:28:08 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Mar 25 10:28:08 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:28:08 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:28:08 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Mar 25 10:28:08 2014] [error] syntax error at template "example/welcome.html.ep" line 7, near "	<%= $_->{'created'} %>".
+syntax error at template "example/welcome.html.ep" line 9.
+Missing right curly or square bracket at template "example/welcome.html.ep" line 9.
+2: % title 'Welcome';
+3: 
+4: <h2><%= $message %></h2>
+5: 
+6: 
+7: <%= for (values %$a) {
+8: 	<%= $_->{'created'} %>
+9: } %>
+
+[Tue Mar 25 10:28:08 2014] [debug] Template "exception.development.html.ep" not found.
+[Tue Mar 25 10:28:08 2014] [debug] Template "exception.html.ep" not found.
+[Tue Mar 25 10:28:08 2014] [debug] Rendering inline template.
+[Tue Mar 25 10:28:08 2014] [debug] 500 Internal Server Error (0.055793s, 17.923/s).
+[Tue Mar 25 10:28:22 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Mar 25 10:28:22 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:28:22 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:28:22 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Mar 25 10:28:22 2014] [error] syntax error at template "example/welcome.html.ep" line 7, near "	<%= $_->{'created'} =%>".
+syntax error at template "example/welcome.html.ep" line 9.
+Missing right curly or square bracket at template "example/welcome.html.ep" line 9.
+2: % title 'Welcome';
+3: 
+4: <h2><%= $message %></h2>
+5: 
+6: 
+7: <%= for (values %$a) {
+8: 	<%= $_->{'created'} =%>
+9: } %>
+
+[Tue Mar 25 10:28:22 2014] [debug] Template "exception.development.html.ep" not found.
+[Tue Mar 25 10:28:22 2014] [debug] Template "exception.html.ep" not found.
+[Tue Mar 25 10:28:22 2014] [debug] Rendering inline template.
+[Tue Mar 25 10:28:22 2014] [debug] 500 Internal Server Error (0.054997s, 18.183/s).
+[Tue Mar 25 10:28:35 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Mar 25 10:28:35 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:28:35 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:28:35 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Mar 25 10:28:35 2014] [error] syntax error at template "example/welcome.html.ep" line 7, near "	<%= $_->{'created'} =%>".
+syntax error at template "example/welcome.html.ep" line 9.
+Global symbol "$_M" requires explicit package name at template "example/welcome.html.ep" line 9.
+Global symbol "$_M" requires explicit package name at template "example/welcome.html.ep" line 9.
+syntax error at template "example/welcome.html.ep" line 9.
+2: % title 'Welcome';
+3: 
+4: <h2><%= $message %></h2>
+5: 
+6: 
+7: <%= for (values %$a) {
+8: 	<%= $_->{'created'} =%>
+9: <% } %>
+
+[Tue Mar 25 10:28:35 2014] [debug] Template "exception.development.html.ep" not found.
+[Tue Mar 25 10:28:35 2014] [debug] Template "exception.html.ep" not found.
+[Tue Mar 25 10:28:35 2014] [debug] Rendering inline template.
+[Tue Mar 25 10:28:35 2014] [debug] 500 Internal Server Error (0.067798s, 14.750/s).
+[Tue Mar 25 10:28:50 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Mar 25 10:28:50 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:28:50 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:28:50 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Mar 25 10:28:50 2014] [debug] Rendering template "layouts/default.html.ep".
+[Tue Mar 25 10:28:50 2014] [debug] 200 OK (0.036507s, 27.392/s).
+[Tue Mar 25 10:29:31 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:29:31 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:29:31 2014] [debug] 200 OK (0.002991s, 334.336/s).
+[Tue Mar 25 10:29:32 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:29:32 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:29:32 2014] [debug] 200 OK (0.003969s, 251.953/s).
+[Tue Mar 25 10:29:32 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:29:32 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:29:32 2014] [debug] 200 OK (0.004424s, 226.040/s).
+[Tue Mar 25 10:29:32 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:29:32 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:29:32 2014] [debug] 200 OK (0.006039s, 165.590/s).
+[Tue Mar 25 10:29:32 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:29:32 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:29:32 2014] [debug] 200 OK (0.004117s, 242.895/s).
+[Tue Mar 25 10:29:32 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:29:32 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:29:32 2014] [debug] 200 OK (0.005086s, 196.618/s).
+[Tue Mar 25 10:29:33 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:29:33 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:29:33 2014] [debug] 200 OK (0.005983s, 167.140/s).
+[Tue Mar 25 10:29:33 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:29:33 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:29:33 2014] [debug] 200 OK (0.006098s, 163.988/s).
+[Tue Mar 25 10:29:33 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:29:33 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:29:33 2014] [debug] 200 OK (0.005838s, 171.292/s).
+[Tue Mar 25 10:29:37 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:29:37 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:29:37 2014] [debug] 200 OK (0.004752s, 210.438/s).
+[Tue Mar 25 10:30:03 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Mar 25 10:30:03 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:30:03 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:30:03 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Mar 25 10:30:03 2014] [debug] Rendering template "layouts/default.html.ep".
+[Tue Mar 25 10:30:03 2014] [debug] 200 OK (0.034455s, 29.023/s).
+[Tue Mar 25 10:30:17 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Mar 25 10:30:17 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:30:17 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:30:17 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Mar 25 10:30:18 2014] [debug] Rendering template "layouts/default.html.ep".
+[Tue Mar 25 10:30:18 2014] [debug] 200 OK (0.051545s, 19.401/s).
+[Tue Mar 25 10:30:18 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:30:18 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:30:18 2014] [debug] 200 OK (0.005713s, 175.039/s).
+[Tue Mar 25 10:30:35 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Mar 25 10:30:35 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:30:35 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:30:35 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Mar 25 10:30:35 2014] [debug] Rendering template "layouts/default.html.ep".
+[Tue Mar 25 10:30:35 2014] [debug] 200 OK (0.034650s, 28.860/s).
+[Tue Mar 25 10:34:32 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Mar 25 10:34:32 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:34:32 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:34:32 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Mar 25 10:34:32 2014] [debug] Rendering template "layouts/default.html.ep".
+[Tue Mar 25 10:34:32 2014] [debug] 200 OK (0.047321s, 21.132/s).
+[Tue Mar 25 10:36:32 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Mar 25 10:36:32 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:36:32 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:36:32 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Mar 25 10:36:32 2014] [debug] Rendering template "layouts/default.html.ep".
+[Tue Mar 25 10:36:32 2014] [debug] 200 OK (0.057370s, 17.431/s).
+[Tue Mar 25 10:36:50 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Mar 25 10:36:50 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:36:50 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:36:50 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Mar 25 10:36:51 2014] [debug] Rendering template "layouts/default.html.ep".
+[Tue Mar 25 10:36:51 2014] [debug] 200 OK (0.049951s, 20.020/s).
+[Tue Mar 25 10:36:51 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:36:51 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:36:51 2014] [debug] 200 OK (0.002135s, 468.384/s).
+[Tue Mar 25 10:36:51 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:36:51 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:36:51 2014] [debug] 200 OK (0.006102s, 163.881/s).
+[Tue Mar 25 10:36:51 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:36:51 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:36:51 2014] [debug] 200 OK (0.002193s, 455.996/s).
+[Tue Mar 25 10:36:51 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:36:51 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:36:51 2014] [debug] 200 OK (0.005996s, 166.778/s).
+[Tue Mar 25 10:36:51 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:36:51 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:36:51 2014] [debug] 200 OK (0.002114s, 473.037/s).
+[Tue Mar 25 10:36:52 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:36:52 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:36:52 2014] [debug] 200 OK (0.004322s, 231.374/s).
+[Tue Mar 25 10:36:52 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:36:52 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:36:52 2014] [debug] 200 OK (0.006972s, 143.431/s).
+[Tue Mar 25 10:37:01 2014] [debug] Your secret passphrase needs to be changed!!!
+[Tue Mar 25 10:37:01 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:37:01 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:37:01 2014] [debug] Rendering template "example/welcome.html.ep".
+[Tue Mar 25 10:37:01 2014] [debug] Rendering template "layouts/default.html.ep".
+[Tue Mar 25 10:37:01 2014] [debug] 200 OK (0.046813s, 21.362/s).
+[Tue Mar 25 10:40:46 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:40:46 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:40:46 2014] [debug] 200 OK (0.005177s, 193.162/s).
+[Tue Mar 25 10:44:10 2014] [debug] GET / (Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0).
+[Tue Mar 25 10:44:10 2014] [debug] Dispatching "OpenAccess::Example->welcome".
+[Tue Mar 25 10:44:10 2014] [debug] 200 OK (0.003604s, 277.469/s).
